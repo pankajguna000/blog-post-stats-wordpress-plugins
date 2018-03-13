@@ -27,7 +27,7 @@ This section describes how to install the plugin and get it working.
 1. Paste this copied function in same "Single Post" before or after the_content function
 1. For more information go to dashboard Settings->Blog-post-stats.
 
-== Changelog ==
+# == Changelog ==
 
 = 1.1 =
 * Wordpress issues fixed.
