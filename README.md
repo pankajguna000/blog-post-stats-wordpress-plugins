@@ -1,13 +1,4 @@
-=== Blog Post Stats ===
-
-Contributors: PankajAgarwal
-
-Tags: thumbs-up, thumbs-down, thumbs count, blog stats, post stats, blog post stats, post stastictic  
-Requires at least: 3.5.0
-Tested up to: 3.5.1
-Stable tag: 1.1
-
-This is a plugin that provide thumbs-up and thumbs-down count for post of your site.
+* Blog Post Stats WordPress Plugins
 
 == Description ==
 
