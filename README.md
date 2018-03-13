@@ -1,6 +1,5 @@
 # Blog Post Stats WordPress Plugins
 
-== Description ==
 
 The Blog Post Stats for WordPress plugin allows you to track like and dislike count to particular blog post in form of thumbs-up and thumbs-down count. 
 Along with these it also provide particular post statistic as word count, links ,images, views and visitor count.
@@ -16,7 +15,7 @@ Click here to get [Premium Wordpress Themes](http://www.inkthemes.com).
 
 
 
-== Installation ==
+# == Installation ==
 
 This section describes how to install the plugin and get it working.
 
