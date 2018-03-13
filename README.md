@@ -11,7 +11,7 @@ Full list of features:
 * This plugin comes with shortcode to place thumbs-up/thumbs-down count and post stats template inside post content.
 
 Blog Post Stats is powered by inkthemes.com.
-Click here to get [Premium Wordpress Themes](http://www.inkthemes.com).
+Click here to get [Premium Wordpress Themes](https://www.inkthemes.com).
 
 
 
