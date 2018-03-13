@@ -1,4 +1,4 @@
-* Blog Post Stats WordPress Plugins
+# Blog Post Stats WordPress Plugins
 
 == Description ==
 
